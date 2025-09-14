@@ -21,8 +21,7 @@ clauses to traditional permissive licensing.
    ```markdown
    This project is licensed under the EOSL v1.0.
    See [LICENSE](./LICENSE.md) for details.
-
-
+3. (Optional) Add a badge:
 ![EOSL License](https://img.shields.io/badge/license-EOSL-blue)
 
 
